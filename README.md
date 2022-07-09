@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codesmack
 - 👀 I’m interested in Web development and software architecture
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently learning Advanced Data Structures
 
 
 <!---
